@@ -1,6 +1,6 @@
 # Stylebot Customization for mau5trap.TV
 
-![](https://d13yacurqjgara.cloudfront.net/users/13314/screenshots/2573297/attachments/511045/feed.png)
+![](https://)
 
 A custom stylesheet for mau5trap.tv for use with the Stylebot extension.
 
