@@ -1,32 +1,26 @@
 /*mau5trap.tv Stylebot Customization*/
 @media screen and (min-width: 896px) {
-  .dDqzgX{
-    /*Content Container*/
+  .dDqzgX{ /*Content Container*/
     padding: 0 0 0 0;
   }
   #header{
     margin: 5px 10px 5px 10px;
     height:25px;
   }
-  .ghqQsO{
-    /*Video Player Container*/
+  .ghqQsO{ /*Video Player Container*/
     min-height: calc(100% - 36px);
     margin: 0 0 0 0;
   }
-  .iyvhqR{
-    /*Chat Sidebar*/
+  .iyvhqR{ /*Chat Sidebar*/
     width:320px;/*Default:320px*/
   }
-  .iyvhqR > *{
-    /*Chat Sidebar Contents*/
+  .iyvhqR > *{ /*Chat Sidebar Contents*/
     width:320px;/*Default:320px*/
   }
-  .jIDWwl{
-    /*Chat Sidebar Header*/
+  .jIDWwl{ /*Chat Sidebar Header*/
     height:35px;
   }
-  .jYvmhm{
-    /*Chat Sidebar Footer*/
+  .jYvmhm{ /*Chat Sidebar Footer*/
     padding:6px 0 6px 0;
   }
 }
