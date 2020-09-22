@@ -23,4 +23,10 @@
   .jYvmhm{ /*Chat Sidebar Footer*/
     padding:6px 0 6px 0;
   }
+  .weIfL{ /*Nav Items*/
+    visibility: visible!important;
+  }
+  .jBMRdI{ /*Nav Drop-down*/
+    visibility: hidden;
+  }
 }
