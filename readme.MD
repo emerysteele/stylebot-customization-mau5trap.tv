@@ -1,6 +1,6 @@
 # Stylebot Customization for mau5trap.TV
 
-![](https://)
+![](https://github.com/emerysteele/stylebot-customization-mau5trap.tv/blob/master/screenshot-after.png?raw=true)
 
 A custom stylesheet for mau5trap.tv for use with the Stylebot extension.
 
