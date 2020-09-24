@@ -10,6 +10,6 @@ A custom css stylesheet for mau5trap.tv for use with the Stylebot browser extens
 
 1. Install [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)\(Chrome/Edge\) \(also works with [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us) in Firefox\)
 2. Copy everything in style.css
-3. Open Stylebot and click on "<> Code"
+3. Open Stylebot while on the mau5trap.tv page and click on "<> Code"
 4. Paste everything
 5. Enjoy.
