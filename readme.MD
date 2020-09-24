@@ -8,7 +8,7 @@ After:
 
 A custom css stylesheet for mau5trap.tv for use with the Stylebot browser extension. Makes the video area very very way more stronger.
 
-1. Install [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)\(Chrome/Edge\) \(also works with [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us) in Firefox\)
+1. Install [Stylebot](https://chrome.google.com/webstore/detail/stylebot/oiaejidbmkiecgbjeifoejpgmdaleoha)\(Chrome/New Edge\) \(also works with [Stylus](https://addons.mozilla.org/en-US/firefox/addon/styl-us) in Firefox\)
 2. Copy everything in style.css
 3. Open Stylebot while on the mau5trap.tv page and click on "<> Code"
 4. Paste everything
